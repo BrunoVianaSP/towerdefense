@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d21b649f-811e-4282-866f-d124695d41a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monster_01_C_attack_03": {
+      "ver": "1.0.3",
+      "uuid": "2d7d152f-cc8d-4bb3-912b-187eea1f185b",
+      "rawTextureUuid": "d21b649f-811e-4282-866f-d124695d41a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 176,
+      "height": 215,
+      "rawWidth": 180,
+      "rawHeight": 216,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

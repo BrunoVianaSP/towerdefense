@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "08dfc71e-6e10-4beb-ae1b-904abd3bc183",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monster_02_attack_03": {
+      "ver": "1.0.3",
+      "uuid": "a050f526-3451-4391-a32a-582de9266ecb",
+      "rawTextureUuid": "08dfc71e-6e10-4beb-ae1b-904abd3bc183",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 189,
+      "height": 216,
+      "rawWidth": 194,
+      "rawHeight": 218,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
